@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vincent:staff
+14 chown vincent:staff *
