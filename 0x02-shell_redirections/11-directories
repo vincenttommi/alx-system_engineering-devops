@@ -1,2 +1,2 @@
 #!/bin/bash
-ind . -type d -not -name . | wc -l
+s -t1 | head -n 10
