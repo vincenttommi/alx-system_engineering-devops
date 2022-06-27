@@ -1,0 +1,2 @@
+#!/bin/bash
+ind . -type d -not -name . | wc -l
